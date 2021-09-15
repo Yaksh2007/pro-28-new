@@ -10,10 +10,10 @@ var world,boy;
 var launchingForce=100;
 
 function preload(){
-   boy1=loadImage("images/boy.png");
-    mango1=loadImage("images/mango.png"); 
-    stone1=loadImage("images/stone.png");
-     tree1=loadImage("images/tree.png");
+   boy1=loadImage("boy.png");
+    mango1=loadImage("mango.png"); 
+    stone1=loadImage("stone.png");
+     tree1=loadImage("tree.png");
      }
 
 function setup() {
